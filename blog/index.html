@@ -48,7 +48,7 @@
     footer{border-top:1px solid #e2e8f0;padding:2rem 1.5rem;text-align:center;font-size:.875rem;color:#6b7280}
     footer a{color:#4338ca}
     .footer-links{display:flex;justify-content:center;flex-wrap:wrap;gap:.25rem 1.25rem;margin-bottom:.75rem}
-      /* Pagefind search */
+        /* Pagefind search */
     .site-search { margin: 0 0 28px; }
     .site-search input[type="search"] {
       width: 100%; padding: 12px 16px; font-size: 1em;
@@ -80,7 +80,7 @@
   </nav>
   <main>
     <header class="page-header"><h1>Edglex Legal Research Blog</h1><p>Exceptions, gaps, and overlooked provisions across US law — from tax exemptions to regulatory gaps to AI ethics obligations for attorneys.</p></header>
-        <div class="site-search">
+            <div class="site-search">
       <input id="site-search-input" type="search" placeholder="Search posts…" aria-label="Search posts" autocomplete="off">
       <div class="search-results" id="site-search-results" role="status" aria-live="polite"></div>
     </div>
@@ -372,14 +372,13 @@
     </nav>
     <p>&copy; 2026 Edglex / Foculoom LLC. Not legal advice.</p>
     <p style="margin-top:.375rem;font-size:.75rem;color:#4b5563;">Built by Edoworks 202607291849.0</p>
-  </footer>
-  <link rel="stylesheet" href="/pagefind/pagefind-modular-ui.css">
+  </footer>  <link rel="stylesheet" href="/pagefind/pagefind-modular-ui.css">
   <script src="/pagefind/pagefind-modular-ui.js" type="module"></script>
   <script type="module">
     const input = document.getElementById('site-search-input');
     const resultsEl = document.getElementById('site-search-results');
     const postList = document.getElementById('post-list');
-    let pagefind, debounce;
+    let pagefind, debounce, reqId = 0;
     async function ensurePagefind() {
       if (!pagefind) {
         pagefind = await import('/pagefind/pagefind.js');
@@ -388,20 +387,37 @@
       }
       return pagefind;
     }
+    function renderExcerpt(parent, excerpt) {
+      const doc = new DOMParser().parseFromString('<div>' + (excerpt || '') + '</div>', 'text/html');
+      const out = document.createElement('div');
+      for (const node of doc.body.firstChild.childNodes) {
+        if (node.nodeType === Node.TEXT_NODE) {
+          out.appendChild(node.cloneNode());
+        } else if (node.nodeType === Node.ELEMENT_NODE && node.tagName === 'MARK' && !node.attributes.length) {
+          const m = document.createElement('mark');
+          m.textContent = node.textContent;
+          out.appendChild(m);
+        }
+      }
+      parent.appendChild(out);
+    }
     async function runSearch(query) {
+      const myId = ++reqId;
       if (!query.trim()) {
-        resultsEl.innerHTML = '';
-        postList.style.display = '';
+        if (myId === reqId) { resultsEl.innerHTML = ''; postList.style.display = ''; }
         return;
       }
       const pf = await ensurePagefind();
+      if (myId !== reqId) return;
       const search = await pf.search(query);
+      if (myId !== reqId) return;
       postList.style.display = 'none';
       if (!search.results.length) {
         resultsEl.innerHTML = '<div class="search-empty">No posts match "' + query.replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c])) + '."</div>';
         return;
       }
       const top = await Promise.all(search.results.slice(0, 20).map(r => r.data()));
+      if (myId !== reqId) return;
       resultsEl.innerHTML = '';
       for (const r of top) {
         const card = document.createElement('div');
@@ -414,8 +430,7 @@
         titleRow.appendChild(a);
         const ex = document.createElement('div');
         ex.className = 'result-excerpt';
-        const safe = (r.excerpt || '').replace(/<(?!\/?mark\b)[^>]*>/g, '');
-        ex.innerHTML = safe;
+        renderExcerpt(ex, r.excerpt);
         card.appendChild(titleRow);
         card.appendChild(ex);
         resultsEl.appendChild(card);
