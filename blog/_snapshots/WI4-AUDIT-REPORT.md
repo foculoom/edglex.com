@@ -21,12 +21,13 @@ accuracy — that is the expert+founder gated WI5.
 
 ### Citation Whitelist Compliance
 
-**151 external links** extracted across 39 posts. Domain distribution:
+**151 external-link occurrences** extracted across 39 posts, producing
+**129 unique per-post URL snapshots**. Domain distribution of occurrences:
 
-| Domain | Links | Whitelisted? |
+| Domain | Occurrences | Whitelisted? |
 |---|---|---|
 | law.cornell.edu | 54 | ✅ Cornell LII |
-| edglex.com | 53 | (internal) |
+| edglex.com | 53 | (internal, excluded from snapshots) |
 | irs.gov | 41 | ✅ IRS |
 | americanbar.org | 26 | ✅ ABA |
 | federalregister.gov | 9 | ✅ Federal Register |
