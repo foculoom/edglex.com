@@ -1,0 +1,15 @@
+{
+  "schema_version": "1.0",
+  "generator": "rendit",
+  "kind": "comparison-table",
+  "recipe_id": "courts-sanctioning-ai-citations-comparison-table",
+  "source_article": "courts-sanctioning-ai-citations.html",
+  "output_sha256": "2d726d81158cfce5d722a40166ea895ec1069b4de78535b1665c306ae9e994f4",
+  "concepts": [
+    "What the Sanctions Actually Requir",
+    "The Overconfidence Problem",
+    "Attorney-Client Privilege and Thir"
+  ],
+  "content_kind": "unknown (kind override)",
+  "content_kind_source": "override"
+}

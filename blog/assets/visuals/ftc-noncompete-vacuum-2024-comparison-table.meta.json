@@ -1,0 +1,15 @@
+{
+  "schema_version": "1.0",
+  "generator": "rendit",
+  "kind": "comparison-table",
+  "recipe_id": "ftc-noncompete-vacuum-2024-comparison-table",
+  "source_article": "ftc-noncompete-vacuum-2024.html",
+  "output_sha256": "0abc10f186d61316574e811504d728da991b598a5920b8a1eee94af873bd049d",
+  "concepts": [
+    "What the 2024 Rule Proposed",
+    "What the Court Said",
+    "The FTC Abandoned Its Appeals"
+  ],
+  "content_kind": "threat-intel / patch-advisory",
+  "content_kind_source": "heuristic"
+}

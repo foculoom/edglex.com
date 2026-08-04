@@ -1,0 +1,15 @@
+{
+  "schema_version": "1.0",
+  "generator": "rendit",
+  "kind": "comparison-table",
+  "recipe_id": "missed-deadline-file-free-comparison-table",
+  "source_article": "missed-deadline-file-free.html",
+  "output_sha256": "931e56c4a3f584903f293f331e0f1f140948b353bbc89f6b6dc2993abaf6b521",
+  "concepts": [
+    "What Changed on June 2",
+    "Who Can Use Free File Right Now",
+    "Why This Is Especially Relevant fo"
+  ],
+  "content_kind": "unknown (kind override)",
+  "content_kind_source": "override"
+}

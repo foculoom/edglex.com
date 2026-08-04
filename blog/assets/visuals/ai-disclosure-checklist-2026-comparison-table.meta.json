@@ -1,0 +1,15 @@
+{
+  "schema_version": "1.0",
+  "generator": "rendit",
+  "kind": "comparison-table",
+  "recipe_id": "ai-disclosure-checklist-2026-comparison-table",
+  "source_article": "ai-disclosure-checklist-2026.html",
+  "output_sha256": "ac05f9d5a4c5df15516dabb27394654839810f44f2f520fcad1e76083bcc5b4b",
+  "concepts": [
+    "Why the Old Approach Fails",
+    "What a 2026-Ready Checklist Looks ",
+    "Disclosure Is Jurisdictional, but "
+  ],
+  "content_kind": "unknown (kind override)",
+  "content_kind_source": "override"
+}

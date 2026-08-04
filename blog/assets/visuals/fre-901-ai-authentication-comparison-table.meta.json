@@ -1,0 +1,15 @@
+{
+  "schema_version": "1.0",
+  "generator": "rendit",
+  "kind": "comparison-table",
+  "recipe_id": "fre-901-ai-authentication-comparison-table",
+  "source_article": "fre-901-ai-authentication.html",
+  "output_sha256": "69e3f4628190cbf25d34a84ea1cbc2174639282e8fa1eccb15ed4832bb5e8b55",
+  "concepts": [
+    "FRE 901(a): The General Standard",
+    "FRE 901(b)(9): Evidence About a Pr",
+    "Three Contexts Where This Analysis"
+  ],
+  "content_kind": "unknown (kind override)",
+  "content_kind_source": "override"
+}

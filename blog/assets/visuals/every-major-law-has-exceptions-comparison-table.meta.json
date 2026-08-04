@@ -1,0 +1,15 @@
+{
+  "schema_version": "1.0",
+  "generator": "rendit",
+  "kind": "comparison-table",
+  "recipe_id": "every-major-law-has-exceptions-comparison-table",
+  "source_article": "every-major-law-has-exceptions.html",
+  "output_sha256": "ea0de779d2276accfce4f925f3243def922827e9af4b28eb87bbc9405abb3f91",
+  "concepts": [
+    "The Structure of Modern Law Is Bui",
+    "Four Exceptions Most People Never ",
+    "Why These Exceptions Are So Hard t"
+  ],
+  "content_kind": "opinion / philosophy / values",
+  "content_kind_source": "heuristic"
+}

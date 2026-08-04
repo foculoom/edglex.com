@@ -1,0 +1,15 @@
+{
+  "schema_version": "1.0",
+  "generator": "rendit",
+  "kind": "comparison-table",
+  "recipe_id": "expert-ai-prompts-discovery-comparison-table",
+  "source_article": "expert-ai-prompts-discovery.html",
+  "output_sha256": "8311c12038c793cab11e7e51399cfe8d02150493228bf25f1278a4436365fae8",
+  "concepts": [
+    "What Mayer Brown Reports the Order",
+    "Why Rule 26 Framing Matters",
+    "The Stay Is Not the End of the Sto"
+  ],
+  "content_kind": "unknown (kind override)",
+  "content_kind_source": "override"
+}
