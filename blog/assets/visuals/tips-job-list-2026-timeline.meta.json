@@ -1,0 +1,15 @@
+{
+  "schema_version": "1.0",
+  "generator": "rendit",
+  "kind": "timeline",
+  "recipe_id": "tips-job-list-2026-timeline",
+  "source_article": "tips-job-list-2026.html",
+  "output_sha256": "809e09f41bb18890a7943aa89fdd5923b194fea0a3210fbaa9186f00d8a7fe56",
+  "concepts": [
+    "What Changed on April 10",
+    "What Counts as a Qualified Tip",
+    "Other Limits People Miss"
+  ],
+  "content_kind": "legal-deadline / statutory-change",
+  "content_kind_source": "heuristic"
+}

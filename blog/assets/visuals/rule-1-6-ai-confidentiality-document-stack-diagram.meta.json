@@ -1,0 +1,15 @@
+{
+  "schema_version": "1.0",
+  "generator": "rendit",
+  "kind": "document-stack-diagram",
+  "recipe_id": "rule-1-6-ai-confidentiality-document-stack-diagram",
+  "source_article": "rule-1-6-ai-confidentiality.html",
+  "output_sha256": "96b549c5ccb78c758166854a1f03f22a066e38bece6fa8ca3bc976b936792f82",
+  "concepts": [
+    "Rule 1.6(a): The General Confident",
+    "Rule 1.6(c): The Reasonable Effort",
+    "What ABA Formal Opinion 512 Adds"
+  ],
+  "content_kind": "legal-case-explainer",
+  "content_kind_source": "heuristic"
+}

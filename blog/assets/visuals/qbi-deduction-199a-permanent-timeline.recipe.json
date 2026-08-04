@@ -1,0 +1,81 @@
+{
+  "schema_version": "0.8.34",
+  "recipe_id": "qbi-deduction-199a-permanent-timeline",
+  "kind": "timeline",
+  "canvas": {
+    "width_px": 1200,
+    "height_px": 421,
+    "background_color": "#FFFFFF"
+  },
+  "scene": {
+    "elements": [
+      {
+        "type": "line",
+        "x1": 150,
+        "y1": 210,
+        "x2": 1050,
+        "y2": 210,
+        "stroke": "#1D4ED8",
+        "stroke_width": 6
+      },
+      {
+        "type": "circle",
+        "cx": 250,
+        "cy": 210,
+        "r": 28,
+        "fill": "#1D4ED8",
+        "stroke": "#FFFFFF",
+        "stroke_width": 4
+      },
+      {
+        "type": "circle",
+        "cx": 600,
+        "cy": 210,
+        "r": 28,
+        "fill": "#1D4ED8",
+        "stroke": "#FFFFFF",
+        "stroke_width": 4
+      },
+      {
+        "type": "circle",
+        "cx": 950,
+        "cy": 210,
+        "r": 28,
+        "fill": "#1D4ED8",
+        "stroke": "#FFFFFF",
+        "stroke_width": 4
+      },
+      {
+        "type": "text",
+        "x": 200,
+        "y": 160,
+        "content": "What the \u00a7 199A\nDeduction Is",
+        "font_size": 20,
+        "font_weight": 700,
+        "fill": "#1D4ED8"
+      },
+      {
+        "type": "text",
+        "x": 550,
+        "y": 160,
+        "content": "Qualified Business\nIncome: What It",
+        "font_size": 20,
+        "font_weight": 700,
+        "fill": "#1D4ED8"
+      },
+      {
+        "type": "text",
+        "x": 900,
+        "y": 160,
+        "content": "The Two Major\nLimitations",
+        "font_size": 20,
+        "font_weight": 700,
+        "fill": "#1D4ED8"
+      }
+    ]
+  },
+  "metadata": {
+    "purpose": "visual-learning",
+    "generator": "rendit timeline"
+  }
+}

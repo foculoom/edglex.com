@@ -1,0 +1,15 @@
+{
+  "schema_version": "1.0",
+  "generator": "rendit",
+  "kind": "timeline",
+  "recipe_id": "overtime-pay-deduction-2026-timeline",
+  "source_article": "overtime-pay-deduction-2026.html",
+  "output_sha256": "41cb89883e80b188a5787970ed54931094b9631a064b9d1e0e0583aaa06980bf",
+  "concepts": [
+    "What the IRS Says the Deduction Co",
+    "The Cap and Phaseout Thresholds",
+    "Who Qualifies \u2014 and Who Does Not"
+  ],
+  "content_kind": "legal-deadline / statutory-change",
+  "content_kind_source": "heuristic"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": "1.0",
+  "generator": "rendit",
+  "kind": "document-stack-diagram",
+  "recipe_id": "work-product-ai-research-document-stack-diagram",
+  "source_article": "work-product-ai-research.html",
+  "output_sha256": "c3fe58087e97147e885e59e4636846a158ee276c23636208821fd02db1f2fa41",
+  "concepts": [
+    "The Work Product Framework: FRCP 2",
+    "Do AI Prompts Qualify as Work Prod",
+    "Do AI Outputs Qualify as Work Prod"
+  ],
+  "content_kind": "legal-case-explainer",
+  "content_kind_source": "heuristic"
+}

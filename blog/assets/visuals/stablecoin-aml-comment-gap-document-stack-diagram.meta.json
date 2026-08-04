@@ -1,0 +1,15 @@
+{
+  "schema_version": "1.0",
+  "generator": "rendit",
+  "kind": "document-stack-diagram",
+  "recipe_id": "stablecoin-aml-comment-gap-document-stack-diagram",
+  "source_article": "stablecoin-aml-comment-gap.html",
+  "output_sha256": "b05f3c020c2078122381f1c903034605cb487d7d8f8f51d150dd8a24ce4aa485",
+  "concepts": [
+    "What Is Actually in Front of the M",
+    "Why This Is a Gap, Not Just \u201cNorma",
+    "What Teams Should Do During the Tr"
+  ],
+  "content_kind": "legal-case-explainer",
+  "content_kind_source": "heuristic"
+}

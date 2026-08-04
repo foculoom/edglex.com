@@ -1,0 +1,15 @@
+{
+  "schema_version": "1.0",
+  "generator": "rendit",
+  "kind": "document-stack-diagram",
+  "recipe_id": "after-loper-bright-regulatory-gaps-document-stack-diagram",
+  "source_article": "after-loper-bright-regulatory-gaps.html",
+  "output_sha256": "0b7bcd2c9c0dd37ebd00378ac4b68d9218383902d7e572fadd5d90804be1defb",
+  "concepts": [
+    "Two Doctrines, One Structural Shif",
+    "How Gaps Form in the New Landscape",
+    "The AI Regulation Case Study"
+  ],
+  "content_kind": "legal-case-explainer",
+  "content_kind_source": "heuristic"
+}

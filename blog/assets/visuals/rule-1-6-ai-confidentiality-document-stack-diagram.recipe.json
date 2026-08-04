@@ -1,0 +1,78 @@
+{
+  "schema_version": "0.8.34",
+  "recipe_id": "rule-1-6-ai-confidentiality-document-stack-diagram",
+  "kind": "document-stack-diagram",
+  "canvas": {
+    "width_px": 1200,
+    "height_px": 421,
+    "background_color": "#FFFFFF"
+  },
+  "scene": {
+    "elements": [
+      {
+        "type": "rect",
+        "x": 400,
+        "y": 60,
+        "width": 400,
+        "height": 80,
+        "fill": "#F8FAFC",
+        "stroke": "#1D4ED8",
+        "stroke_width": 3,
+        "rx": 8
+      },
+      {
+        "type": "rect",
+        "x": 380,
+        "y": 160,
+        "width": 400,
+        "height": 80,
+        "fill": "#F1F5F9",
+        "stroke": "#1D4ED8",
+        "stroke_width": 3,
+        "rx": 8
+      },
+      {
+        "type": "rect",
+        "x": 360,
+        "y": 260,
+        "width": 400,
+        "height": 80,
+        "fill": "#E2E8F0",
+        "stroke": "#1D4ED8",
+        "stroke_width": 3,
+        "rx": 8
+      },
+      {
+        "type": "text",
+        "x": 420,
+        "y": 110,
+        "content": "Rule 1.6(a): The\nGeneral Confident",
+        "font_size": 20,
+        "font_weight": 700,
+        "fill": "#1D4ED8"
+      },
+      {
+        "type": "text",
+        "x": 400,
+        "y": 210,
+        "content": "Rule 1.6(c): The\nReasonable Effort",
+        "font_size": 20,
+        "font_weight": 700,
+        "fill": "#1D4ED8"
+      },
+      {
+        "type": "text",
+        "x": 380,
+        "y": 310,
+        "content": "What ABA Formal\nOpinion 512 Adds",
+        "font_size": 20,
+        "font_weight": 700,
+        "fill": "#1D4ED8"
+      }
+    ]
+  },
+  "metadata": {
+    "purpose": "visual-learning",
+    "generator": "rendit document-stack-diagram"
+  }
+}

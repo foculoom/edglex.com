@@ -1,0 +1,15 @@
+{
+  "schema_version": "1.0",
+  "generator": "rendit",
+  "kind": "timeline",
+  "recipe_id": "schedule-1a-how-to-claim-timeline",
+  "source_article": "schedule-1a-how-to-claim.html",
+  "output_sha256": "09d7c2cc1b4283e08e828b2ab37ebbaeccd98d411b2892a43431c8c6c6950665",
+  "concepts": [
+    "What Schedule 1-A Is",
+    "The Four Deductions and What Each ",
+    "The Documentation Problem"
+  ],
+  "content_kind": "legal-deadline / statutory-change",
+  "content_kind_source": "heuristic"
+}

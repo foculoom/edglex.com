@@ -1,0 +1,15 @@
+{
+  "schema_version": "1.0",
+  "generator": "rendit",
+  "kind": "comparison-table",
+  "recipe_id": "standing-orders-ai-disclosure-comparison-table",
+  "source_article": "standing-orders-ai-disclosure.html",
+  "output_sha256": "b13747508d246b870604f73bb081ae3fe07e0425d729326aabc1d895d4828b36",
+  "concepts": [
+    "The Rulemaking Authority: FRCP Rul",
+    "What AI-Related Orders Typically R",
+    "How to Check for Applicable Orders"
+  ],
+  "content_kind": "regulatory-gap / compliance-gap",
+  "content_kind_source": "heuristic"
+}

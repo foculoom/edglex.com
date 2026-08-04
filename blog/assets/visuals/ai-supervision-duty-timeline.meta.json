@@ -1,0 +1,15 @@
+{
+  "schema_version": "1.0",
+  "generator": "rendit",
+  "kind": "timeline",
+  "recipe_id": "ai-supervision-duty-timeline",
+  "source_article": "ai-supervision-duty.html",
+  "output_sha256": "5cf4b7faad19b5e03cbac15b7c384babbe477dd7ed61fadddded4fc4772ae197",
+  "concepts": [
+    "Why This Is Bigger Than Rule 11 Al",
+    "A Recent Court Signal: Referral Ca",
+    "What a Real AI-Supervision Protoco"
+  ],
+  "content_kind": "legal-deadline / statutory-change",
+  "content_kind_source": "heuristic"
+}

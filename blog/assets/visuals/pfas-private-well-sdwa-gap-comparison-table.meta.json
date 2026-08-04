@@ -1,0 +1,15 @@
+{
+  "schema_version": "1.0",
+  "generator": "rendit",
+  "kind": "comparison-table",
+  "recipe_id": "pfas-private-well-sdwa-gap-comparison-table",
+  "source_article": "pfas-private-well-sdwa-gap.html",
+  "output_sha256": "f91aaed8732068c33bebcd55c4d4301f551ac0bc635176623ef6b7ce8e1f9156",
+  "concepts": [
+    "What the 2024 Rule Actually Covers",
+    "The Statutory Boundary That Create",
+    "Geographic and Demographic Distrib"
+  ],
+  "content_kind": "regulatory-gap / compliance-gap",
+  "content_kind_source": "heuristic"
+}

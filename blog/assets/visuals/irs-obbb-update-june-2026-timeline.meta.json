@@ -1,0 +1,15 @@
+{
+  "schema_version": "1.0",
+  "generator": "rendit",
+  "kind": "timeline",
+  "recipe_id": "irs-obbb-update-june-2026-timeline",
+  "source_article": "irs-obbb-update-june-2026.html",
+  "output_sha256": "f95484b0059deaa751b5eefd284528e95bb32b35b9ec28de1de6831852a1fc13",
+  "concepts": [
+    "What changed in the IRS OBBB guida",
+    "Where founders and independent ear",
+    "How to evaluate your return before"
+  ],
+  "content_kind": "legal-deadline / statutory-change",
+  "content_kind_source": "heuristic"
+}

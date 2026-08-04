@@ -1,0 +1,15 @@
+{
+  "schema_version": "1.0",
+  "generator": "rendit",
+  "kind": "document-stack-diagram",
+  "recipe_id": "rule-3-3-ai-candor-document-stack-diagram",
+  "source_article": "rule-3-3-ai-candor.html",
+  "output_sha256": "310733fb8d8db112fa7719503801969578fd36f8d0c4e51ec287cc18abe896a3",
+  "concepts": [
+    "Rule 3.3(a)(1): The Text and Its R",
+    "The \"Knowingly\" Standard: When Act",
+    "The Duty to Correct: Rule 3.3(a)(1"
+  ],
+  "content_kind": "legal-case-explainer",
+  "content_kind_source": "heuristic"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": "1.0",
+  "generator": "rendit",
+  "kind": "document-stack-diagram",
+  "recipe_id": "nhtsa-preemption-gap-june-2026-document-stack-diagram",
+  "source_article": "nhtsa-preemption-gap-june-2026.html",
+  "output_sha256": "36b5a434bdb2fc9a76d08b75b766abce25972dda0331b6f503eb3d6b1601381b",
+  "concepts": [
+    "What Changed on June 3 (and What D",
+    "Where the Gap Lives",
+    "Why This Matters Beyond Auto Safet"
+  ],
+  "content_kind": "legal-case-explainer",
+  "content_kind_source": "heuristic"
+}

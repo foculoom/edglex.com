@@ -1,0 +1,15 @@
+{
+  "schema_version": "1.0",
+  "generator": "rendit",
+  "kind": "timeline",
+  "recipe_id": "frcp-11-ai-certification-timeline",
+  "source_article": "frcp-11-ai-certification.html",
+  "output_sha256": "3df002a7a38fbdefc9ab25b8c6a3c43abee22876c8e3d277a6e41ddd6362c298",
+  "concepts": [
+    "The Certification: FRCP 11(b)(2)",
+    "What the Inquiry Requires for AI-G",
+    "ABA Formal Opinion 512: The Compet"
+  ],
+  "content_kind": "legal-deadline / statutory-change",
+  "content_kind_source": "heuristic"
+}

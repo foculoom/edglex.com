@@ -1,0 +1,15 @@
+{
+  "schema_version": "1.0",
+  "generator": "rendit",
+  "kind": "timeline",
+  "recipe_id": "car-loan-interest-deduction-2026-timeline",
+  "source_article": "car-loan-interest-deduction-2026.html",
+  "output_sha256": "267fc0d7210a075a63fdf8aaa8e47bdb7f02414de2bfc98d9cd71648c92fbc46",
+  "concepts": [
+    "What the Deduction Covers",
+    "The Core Eligibility Requirements",
+    "Why This Provision Gets Missed"
+  ],
+  "content_kind": "legal-deadline / statutory-change",
+  "content_kind_source": "heuristic"
+}

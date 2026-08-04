@@ -1,0 +1,15 @@
+{
+  "schema_version": "1.0",
+  "generator": "rendit",
+  "kind": "comparison-table",
+  "recipe_id": "no-surprises-act-idr-gap-comparison-table",
+  "source_article": "no-surprises-act-idr-gap.html",
+  "output_sha256": "e1b38fd14e1bcf8e762874a07efc65b69687c2b72bed527c98a1f5ac3bcd6580",
+  "concepts": [
+    "What the No Surprises Act Requires",
+    "What the Agencies Did \u2014 and What t",
+    "What Fills the Gap: Enforcement Di"
+  ],
+  "content_kind": "regulatory-gap / compliance-gap",
+  "content_kind_source": "heuristic"
+}

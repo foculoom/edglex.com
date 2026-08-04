@@ -1,0 +1,15 @@
+{
+  "schema_version": "1.0",
+  "generator": "rendit",
+  "kind": "timeline",
+  "recipe_id": "missed-deadline-irs-free-file-october-timeline",
+  "source_article": "missed-deadline-irs-free-file-october.html",
+  "output_sha256": "072c55dca8b0560f6631b73ab9220ded49df7afdb5316740bc32eabe370cd57f",
+  "concepts": [
+    "What Changed (and What Did Not)",
+    "Why This Matters for Legal and Com",
+    "The Exception Pattern to Track"
+  ],
+  "content_kind": "legal-deadline / statutory-change",
+  "content_kind_source": "heuristic"
+}

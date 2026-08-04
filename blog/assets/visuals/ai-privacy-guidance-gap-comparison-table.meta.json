@@ -1,0 +1,15 @@
+{
+  "schema_version": "1.0",
+  "generator": "rendit",
+  "kind": "comparison-table",
+  "recipe_id": "ai-privacy-guidance-gap-comparison-table",
+  "source_article": "ai-privacy-guidance-gap.html",
+  "output_sha256": "fc429516cf4479d116aba0b5aa54a410011761187bb9abb1e439774a801eef65",
+  "concepts": [
+    "What GAO Actually Found",
+    "Where the Gap Lives",
+    "Why This Matters Beyond Federal Ag"
+  ],
+  "content_kind": "regulatory-gap / compliance-gap",
+  "content_kind_source": "heuristic"
+}

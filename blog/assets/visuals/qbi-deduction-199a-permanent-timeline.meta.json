@@ -1,0 +1,15 @@
+{
+  "schema_version": "1.0",
+  "generator": "rendit",
+  "kind": "timeline",
+  "recipe_id": "qbi-deduction-199a-permanent-timeline",
+  "source_article": "qbi-deduction-199a-permanent.html",
+  "output_sha256": "615d6e4e093bb624fa842fb0a1e6fa0fdfb2295025f427fd219b35cd6b8ef174",
+  "concepts": [
+    "What the \u00a7 199A Deduction Is",
+    "Qualified Business Income: What It",
+    "The Two Major Limitations"
+  ],
+  "content_kind": "legal-deadline / statutory-change",
+  "content_kind_source": "heuristic"
+}

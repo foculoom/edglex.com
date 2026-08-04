@@ -1,0 +1,15 @@
+{
+  "schema_version": "1.0",
+  "generator": "rendit",
+  "kind": "comparison-table",
+  "recipe_id": "occ-preemption-escrow-ruling-comparison-table",
+  "source_article": "occ-preemption-escrow-ruling.html",
+  "output_sha256": "4de2d21f20a45158f103aecfeec8179cf43c7046d8e05b6e7a72a805bf8065c5",
+  "concepts": [
+    "The Four Dimensions of This Gap",
+    "Why the OCC's Determination Doesn'",
+    "How Long This Gap Is Likely to Las"
+  ],
+  "content_kind": "regulatory-gap / compliance-gap",
+  "content_kind_source": "heuristic"
+}

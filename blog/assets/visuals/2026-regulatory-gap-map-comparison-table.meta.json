@@ -1,0 +1,15 @@
+{
+  "schema_version": "1.0",
+  "generator": "rendit",
+  "kind": "comparison-table",
+  "recipe_id": "2026-regulatory-gap-map-comparison-table",
+  "source_article": "2026-regulatory-gap-map.html",
+  "output_sha256": "128706c810a755fb5e4720b468c101734a2713496a35aed4fb96f914217fd2ae",
+  "concepts": [
+    "Four Active Regulatory Gaps",
+    "What These Gaps Have in Common",
+    "How Long Do Gaps Last?"
+  ],
+  "content_kind": "regulatory-gap / compliance-gap",
+  "content_kind_source": "heuristic"
+}
