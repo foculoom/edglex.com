@@ -4,12 +4,13 @@
   "kind": "document-stack-diagram",
   "recipe_id": "stablecoin-aml-comment-gap-document-stack-diagram",
   "source_article": "stablecoin-aml-comment-gap.html",
-  "output_sha256": "b05f3c020c2078122381f1c903034605cb487d7d8f8f51d150dd8a24ce4aa485",
+  "output_sha256": "ed890344a1940143e740ef45e1099681bea8353b077f583bc73b3814a2b5d7f9",
   "concepts": [
-    "What Is Actually in Front of the M",
-    "Why This Is a Gap, Not Just \u201cNorma",
-    "What Teams Should Do During the Tr"
+    "What Is Actually in Front of the Market",
+    "Why This Is a Gap, Not Just \u201cNormal Rulemaking\u201d",
+    "What Teams Should Do During the Transition Window",
+    "References & Sources"
   ],
   "content_kind": "legal-case-explainer",
-  "content_kind_source": "heuristic"
+  "content_kind_source": "meta"
 }

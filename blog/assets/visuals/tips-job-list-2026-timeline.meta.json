@@ -4,12 +4,14 @@
   "kind": "timeline",
   "recipe_id": "tips-job-list-2026-timeline",
   "source_article": "tips-job-list-2026.html",
-  "output_sha256": "809e09f41bb18890a7943aa89fdd5923b194fea0a3210fbaa9186f00d8a7fe56",
+  "output_sha256": "4c0d4ac015be077b6eeecf2d5f816fd920052cdffbc6bfc5d1368534062d7653",
   "concepts": [
     "What Changed on April 10",
     "What Counts as a Qualified Tip",
-    "Other Limits People Miss"
+    "Other Limits People Miss",
+    "How to Use This Without Misreading It",
+    "References & Sources"
   ],
   "content_kind": "legal-deadline / statutory-change",
-  "content_kind_source": "heuristic"
+  "content_kind_source": "meta"
 }

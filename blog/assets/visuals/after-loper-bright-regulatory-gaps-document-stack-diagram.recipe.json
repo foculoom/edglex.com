@@ -21,6 +21,51 @@
         "rx": 8
       },
       {
+        "type": "text",
+        "x": 420,
+        "y": 95,
+        "content": "Two Doctrines, One",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 420,
+        "y": 115,
+        "content": "Structural Shift",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 420,
+        "y": 120,
+        "content": "Understanding the gap requires",
+        "font_size": 12,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 420,
+        "y": 134,
+        "content": "understanding how the two",
+        "font_size": 12,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 420,
+        "y": 148,
+        "content": "doctrines interact.",
+        "font_size": 12,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
         "type": "rect",
         "x": 380,
         "y": 160,
@@ -30,6 +75,42 @@
         "stroke": "#1D4ED8",
         "stroke_width": 3,
         "rx": 8
+      },
+      {
+        "type": "text",
+        "x": 400,
+        "y": 195,
+        "content": "How Gaps Form in the",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 400,
+        "y": 215,
+        "content": "New Landscape",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 400,
+        "y": 220,
+        "content": "Regulatory gaps do not only form",
+        "font_size": 12,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 400,
+        "y": 234,
+        "content": "where no law exists.",
+        "font_size": 12,
+        "fill": "#475569",
+        "font_weight": 400
       },
       {
         "type": "rect",
@@ -44,30 +125,57 @@
       },
       {
         "type": "text",
-        "x": 420,
-        "y": 110,
-        "content": "Two Doctrines, One\nStructural Shif",
-        "font_size": 20,
-        "font_weight": 700,
-        "fill": "#1D4ED8"
-      },
-      {
-        "type": "text",
-        "x": 400,
-        "y": 210,
-        "content": "How Gaps Form in\nthe New Landscape",
-        "font_size": 20,
-        "font_weight": 700,
-        "fill": "#1D4ED8"
+        "x": 380,
+        "y": 295,
+        "content": "The AI Regulation Case",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
       },
       {
         "type": "text",
         "x": 380,
-        "y": 310,
-        "content": "The AI Regulation\nCase Study",
-        "font_size": 20,
-        "font_weight": 700,
-        "fill": "#1D4ED8"
+        "y": 315,
+        "content": "Study",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 380,
+        "y": 320,
+        "content": "The gap created by Loper Bright",
+        "font_size": 12,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 380,
+        "y": 334,
+        "content": "and the major questions doctrine",
+        "font_size": 12,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 380,
+        "y": 348,
+        "content": "is most visible in AI",
+        "font_size": 12,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 380,
+        "y": 362,
+        "content": "regulation.",
+        "font_size": 12,
+        "fill": "#475569",
+        "font_weight": 400
       }
     ]
   },

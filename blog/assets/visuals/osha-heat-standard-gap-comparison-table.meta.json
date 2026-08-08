@@ -4,12 +4,14 @@
   "kind": "comparison-table",
   "recipe_id": "osha-heat-standard-gap-comparison-table",
   "source_article": "osha-heat-standard-gap.html",
-  "output_sha256": "9687526ac23805e756a7a24b6a60367908b05e228da62363a2c6ec516f0a4d95",
+  "output_sha256": "12fc3a6a1b3c2791d301d38db4cce8ae4b5c8bd988134a1d0606b60e9aa1d1f2",
   "concepts": [
-    "The General Duty Clause: What It S",
+    "The General Duty Clause: What It Says and What It Cannot Do",
     "What the 2024 NPRM Proposes",
-    "State Plan States vs. Federal OSHA"
+    "State Plan States vs. Federal OSHA Jurisdiction",
+    "Practical Implications of the Gap",
+    "References & Sources"
   ],
   "content_kind": "regulatory-gap / compliance-gap",
-  "content_kind_source": "heuristic"
+  "content_kind_source": "meta"
 }

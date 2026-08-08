@@ -48,29 +48,164 @@
       {
         "type": "text",
         "x": 200,
+        "y": 140,
+        "content": "What changed in the",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 200,
         "y": 160,
-        "content": "What changed in\nthe IRS OBBB guida",
-        "font_size": 20,
-        "font_weight": 700,
-        "fill": "#1D4ED8"
+        "content": "IRS OBBB guidance",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 550,
+        "y": 140,
+        "content": "Where founders and",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
       },
       {
         "type": "text",
         "x": 550,
         "y": 160,
-        "content": "Where founders and\nindependent ear",
-        "font_size": 20,
-        "font_weight": 700,
-        "fill": "#1D4ED8"
+        "content": "independent earners\u2026",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 900,
+        "y": 140,
+        "content": "How to evaluate your",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
       },
       {
         "type": "text",
         "x": 900,
         "y": 160,
-        "content": "How to evaluate\nyour return before",
-        "font_size": 20,
-        "font_weight": 700,
-        "fill": "#1D4ED8"
+        "content": "return before filing",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 180,
+        "y": 255,
+        "content": "The IRS update identifies an",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 180,
+        "y": 271,
+        "content": "enhanced standard deduction for",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 180,
+        "y": 287,
+        "content": "2026, a new additional deduction",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 180,
+        "y": 303,
+        "content": "for seniors, and new",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 530,
+        "y": 255,
+        "content": "Common filing errors follow",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 530,
+        "y": 271,
+        "content": "recurring patterns: taxpayers",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 530,
+        "y": 287,
+        "content": "mix employee and self-employment",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 530,
+        "y": 303,
+        "content": "logic, estimate phaseouts",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 880,
+        "y": 255,
+        "content": "Start with a sequence, not a",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 880,
+        "y": 271,
+        "content": "spreadsheet frenzy: verify",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 880,
+        "y": 287,
+        "content": "filing status, map taxable",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 880,
+        "y": 303,
+        "content": "income bands, identify deduction",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
       }
     ]
   },

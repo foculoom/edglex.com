@@ -48,29 +48,164 @@
       {
         "type": "text",
         "x": 200,
+        "y": 140,
+        "content": "What the \u00a7 199A",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 200,
         "y": 160,
-        "content": "What the \u00a7 199A\nDeduction Is",
-        "font_size": 20,
-        "font_weight": 700,
-        "fill": "#1D4ED8"
+        "content": "Deduction Is",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 550,
+        "y": 140,
+        "content": "Qualified Business",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
       },
       {
         "type": "text",
         "x": 550,
         "y": 160,
-        "content": "Qualified Business\nIncome: What It",
-        "font_size": 20,
-        "font_weight": 700,
-        "fill": "#1D4ED8"
+        "content": "Income: What It\u2026",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 900,
+        "y": 140,
+        "content": "The Two Major",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
       },
       {
         "type": "text",
         "x": 900,
         "y": 160,
-        "content": "The Two Major\nLimitations",
-        "font_size": 20,
-        "font_weight": 700,
-        "fill": "#1D4ED8"
+        "content": "Limitations",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 180,
+        "y": 255,
+        "content": "Under IRC \u00a7 199A, individuals",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 180,
+        "y": 271,
+        "content": "(and certain trusts and estates)",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 180,
+        "y": 287,
+        "content": "may deduct up to 20 percent of",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 180,
+        "y": 303,
+        "content": "qualified business income",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 530,
+        "y": 255,
+        "content": "QBI is net ordinary income from",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 530,
+        "y": 271,
+        "content": "a qualified trade or business",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 530,
+        "y": 287,
+        "content": "conducted within the United",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 530,
+        "y": 303,
+        "content": "States.",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 880,
+        "y": 255,
+        "content": "The \u00a7 199A deduction is subject",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 880,
+        "y": 271,
+        "content": "to two limitations that apply",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 880,
+        "y": 287,
+        "content": "above an inflation-adjusted",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 880,
+        "y": 303,
+        "content": "income threshold.",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
       }
     ]
   },

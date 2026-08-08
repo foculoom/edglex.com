@@ -4,12 +4,14 @@
   "kind": "timeline",
   "recipe_id": "senior-deduction-obbb-2026-timeline",
   "source_article": "senior-deduction-obbb-2026.html",
-  "output_sha256": "1086c5e877b5daca62f862b120739dbf21541b7ad4463a1766e1079c555d4cb5",
+  "output_sha256": "fc2baa2c6789369afa4bd90aa8099a9ef1e8c6f16e9253eed3a4b91cb7f16b80",
   "concepts": [
-    "The Two Deductions for Seniors: Wh",
-    "Eligibility for the OBBB Senior De",
-    "Why the Phaseout Threshold Is Lowe"
+    "The Two Deductions for Seniors: What Each One Is",
+    "Eligibility for the OBBB Senior Deduction",
+    "Why the Phaseout Threshold Is Lower Than Other OBBB Deductions",
+    "Interaction With the Standard Deduction and Itemizing",
+    "Documentation and Filing"
   ],
   "content_kind": "legal-deadline / statutory-change",
-  "content_kind_source": "heuristic"
+  "content_kind_source": "meta"
 }

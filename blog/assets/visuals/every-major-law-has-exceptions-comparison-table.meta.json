@@ -4,12 +4,14 @@
   "kind": "comparison-table",
   "recipe_id": "every-major-law-has-exceptions-comparison-table",
   "source_article": "every-major-law-has-exceptions.html",
-  "output_sha256": "ea0de779d2276accfce4f925f3243def922827e9af4b28eb87bbc9405abb3f91",
+  "output_sha256": "c84c784928c2a9d51a01695b5f35e3725790941c015e5961d0a5716ccd4d675d",
   "concepts": [
-    "The Structure of Modern Law Is Bui",
-    "Four Exceptions Most People Never ",
-    "Why These Exceptions Are So Hard t"
+    "The Structure of Modern Law Is Built on Exceptions",
+    "Four Exceptions Most People Never Find",
+    "Why These Exceptions Are So Hard to Find",
+    "What AI-Powered Research Changes",
+    "Knowing Your Exceptions Means Knowing Your Rights"
   ],
   "content_kind": "opinion / philosophy / values",
-  "content_kind_source": "heuristic"
+  "content_kind_source": "meta"
 }

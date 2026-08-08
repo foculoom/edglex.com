@@ -4,12 +4,14 @@
   "kind": "comparison-table",
   "recipe_id": "pfas-private-well-sdwa-gap-comparison-table",
   "source_article": "pfas-private-well-sdwa-gap.html",
-  "output_sha256": "f91aaed8732068c33bebcd55c4d4301f551ac0bc635176623ef6b7ce8e1f9156",
+  "output_sha256": "d0d7909bf1ead00b9a9054b216b54a221a7b186f072371379f1fda2e08e1851f",
   "concepts": [
     "What the 2024 Rule Actually Covers",
-    "The Statutory Boundary That Create",
-    "Geographic and Demographic Distrib"
+    "The Statutory Boundary That Creates the Gap",
+    "Geographic and Demographic Distribution of the Risk",
+    "Practical Implications of the Gap",
+    "References & Sources"
   ],
   "content_kind": "regulatory-gap / compliance-gap",
-  "content_kind_source": "heuristic"
+  "content_kind_source": "meta"
 }

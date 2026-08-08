@@ -4,11 +4,13 @@
   "kind": "comparison-table",
   "recipe_id": "legal-loopholes-arent-cheating-comparison-table",
   "source_article": "legal-loopholes-arent-cheating.html",
-  "output_sha256": "4f3fbd10bbf2cad419fe3eee9f02e19f019ac12bc3068d827df052ef352a70be",
+  "output_sha256": "ce32eb5d247a3e040b728ee0f5cec2eda034ef132372d019ab1a571af306ea28",
   "concepts": [
     "How Loopholes Are Born",
-    "Four Real Loopholes You May Alread",
-    "Why These Provisions Still Exist"
+    "Four Real Loopholes You May Already Qualify For",
+    "Why These Provisions Still Exist",
+    "The Access Problem",
+    "Find Your Provisions"
   ],
   "content_kind": "unknown (kind override)",
   "content_kind_source": "override"

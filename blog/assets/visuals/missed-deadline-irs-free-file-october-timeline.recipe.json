@@ -48,29 +48,173 @@
       {
         "type": "text",
         "x": 200,
+        "y": 140,
+        "content": "What Changed (and What",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 200,
         "y": 160,
-        "content": "What Changed (and\nWhat Did Not)",
-        "font_size": 20,
-        "font_weight": 700,
-        "fill": "#1D4ED8"
+        "content": "Did Not)",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 550,
+        "y": 140,
+        "content": "Why This Matters for",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
       },
       {
         "type": "text",
         "x": 550,
         "y": 160,
-        "content": "Why This Matters\nfor Legal and Com",
-        "font_size": 20,
-        "font_weight": 700,
-        "fill": "#1D4ED8"
+        "content": "Legal and Compliance\u2026",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 900,
+        "y": 140,
+        "content": "The Exception Pattern",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
       },
       {
         "type": "text",
         "x": 900,
         "y": 160,
-        "content": "The Exception\nPattern to Track",
-        "font_size": 20,
-        "font_weight": 700,
-        "fill": "#1D4ED8"
+        "content": "to Track",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 180,
+        "y": 255,
+        "content": "The IRS did not announce a",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 180,
+        "y": 271,
+        "content": "cancellation of filing",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 180,
+        "y": 287,
+        "content": "obligations.",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 530,
+        "y": 255,
+        "content": "For legal aid teams, tax",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 530,
+        "y": 271,
+        "content": "clinics, and compliance",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 530,
+        "y": 287,
+        "content": "advisors, the timing signal",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 530,
+        "y": 303,
+        "content": "matters as much as the rule",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 530,
+        "y": 319,
+        "content": "itself.",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 880,
+        "y": 255,
+        "content": "Legal and regulatory systems",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 880,
+        "y": 271,
+        "content": "often have this structure: a",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 880,
+        "y": 287,
+        "content": "baseline deadline plus",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 880,
+        "y": 303,
+        "content": "post-deadline compliance",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 880,
+        "y": 319,
+        "content": "pathways.",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
       }
     ]
   },

@@ -21,6 +21,51 @@
         "rx": 8
       },
       {
+        "type": "text",
+        "x": 420,
+        "y": 95,
+        "content": "What Changed on June 3",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 420,
+        "y": 115,
+        "content": "(and What Did Not)",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 420,
+        "y": 120,
+        "content": "NHTSA finalized text cleanups in",
+        "font_size": 12,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 420,
+        "y": 134,
+        "content": "FMVSS provisions that had become",
+        "font_size": 12,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 420,
+        "y": 148,
+        "content": "obsolete.",
+        "font_size": 12,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
         "type": "rect",
         "x": 380,
         "y": 160,
@@ -30,6 +75,42 @@
         "stroke": "#1D4ED8",
         "stroke_width": 3,
         "rx": 8
+      },
+      {
+        "type": "text",
+        "x": 400,
+        "y": 195,
+        "content": "Where the Gap Lives",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 400,
+        "y": 220,
+        "content": "The gap is not \"federal law",
+        "font_size": 12,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 400,
+        "y": 234,
+        "content": "absent, state law present.\" It",
+        "font_size": 12,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 400,
+        "y": 248,
+        "content": "is a three-part mismatch:",
+        "font_size": 12,
+        "fill": "#475569",
+        "font_weight": 400
       },
       {
         "type": "rect",
@@ -44,30 +125,57 @@
       },
       {
         "type": "text",
-        "x": 420,
-        "y": 110,
-        "content": "What Changed on\nJune 3 (and What D",
-        "font_size": 20,
-        "font_weight": 700,
-        "fill": "#1D4ED8"
-      },
-      {
-        "type": "text",
-        "x": 400,
-        "y": 210,
-        "content": "Where the Gap\nLives",
-        "font_size": 20,
-        "font_weight": 700,
-        "fill": "#1D4ED8"
+        "x": 380,
+        "y": 295,
+        "content": "Why This Matters",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
       },
       {
         "type": "text",
         "x": 380,
-        "y": 310,
-        "content": "Why This Matters\nBeyond Auto Safet",
-        "font_size": 20,
-        "font_weight": 700,
-        "fill": "#1D4ED8"
+        "y": 315,
+        "content": "Beyond Auto Safety",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 380,
+        "y": 320,
+        "content": "Edglex tracks cross-domain",
+        "font_size": 12,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 380,
+        "y": 334,
+        "content": "regulatory ambiguity, and this",
+        "font_size": 12,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 380,
+        "y": 348,
+        "content": "June 3 rule set is a clean",
+        "font_size": 12,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 380,
+        "y": 362,
+        "content": "example of a broader pattern",
+        "font_size": 12,
+        "fill": "#475569",
+        "font_weight": 400
       }
     ]
   },

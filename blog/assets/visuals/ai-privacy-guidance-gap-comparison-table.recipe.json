@@ -11,9 +11,9 @@
     "elements": [
       {
         "type": "rect",
-        "x": 50,
+        "x": 40,
         "y": 40,
-        "width": 360,
+        "width": 373,
         "height": 340,
         "fill": "#F8FAFC",
         "stroke": "#1D4ED8",
@@ -21,9 +21,36 @@
       },
       {
         "type": "rect",
-        "x": 430,
+        "x": 40,
         "y": 40,
-        "width": 360,
+        "width": 373,
+        "height": 60,
+        "fill": "#1D4ED8",
+        "opacity": 0.12
+      },
+      {
+        "type": "text",
+        "x": 60,
+        "y": 60,
+        "content": "What GAO Actually",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 60,
+        "y": 80,
+        "content": "Found",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "rect",
+        "x": 433,
+        "y": 40,
+        "width": 373,
         "height": 340,
         "fill": "#F8FAFC",
         "stroke": "#1D4ED8",
@@ -31,40 +58,148 @@
       },
       {
         "type": "rect",
-        "x": 810,
+        "x": 433,
         "y": 40,
-        "width": 360,
+        "width": 373,
+        "height": 60,
+        "fill": "#1D4ED8",
+        "opacity": 0.12
+      },
+      {
+        "type": "text",
+        "x": 453,
+        "y": 60,
+        "content": "Where the Gap Lives",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "rect",
+        "x": 826,
+        "y": 40,
+        "width": 373,
         "height": 340,
         "fill": "#F8FAFC",
         "stroke": "#1D4ED8",
         "stroke_width": 3
       },
       {
-        "type": "text",
-        "x": 70,
-        "y": 80,
-        "content": "What GAO Actually\nFound",
-        "font_size": 20,
-        "font_weight": 700,
-        "fill": "#1D4ED8"
+        "type": "rect",
+        "x": 826,
+        "y": 40,
+        "width": 373,
+        "height": 60,
+        "fill": "#1D4ED8",
+        "opacity": 0.12
       },
       {
         "type": "text",
-        "x": 450,
-        "y": 80,
-        "content": "Where the Gap\nLives",
-        "font_size": 20,
-        "font_weight": 700,
-        "fill": "#1D4ED8"
+        "x": 846,
+        "y": 60,
+        "content": "Why This Matters",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
       },
       {
         "type": "text",
-        "x": 830,
+        "x": 846,
         "y": 80,
-        "content": "Why This Matters\nBeyond Federal Ag",
-        "font_size": 20,
-        "font_weight": 700,
-        "fill": "#1D4ED8"
+        "content": "Beyond Federal\u2026",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 60,
+        "y": 130,
+        "content": "GAO says OMB's government-wide",
+        "font_size": 14,
+        "fill": "#1F2937",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 60,
+        "y": 148,
+        "content": "AI guidance does not specify",
+        "font_size": 14,
+        "fill": "#1F2937",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 60,
+        "y": 166,
+        "content": "the types of known",
+        "font_size": 14,
+        "fill": "#1F2937",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 60,
+        "y": 184,
+        "content": "privacy-related risks agencies",
+        "font_size": 14,
+        "fill": "#1F2937",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 60,
+        "y": 202,
+        "content": "should",
+        "font_size": 14,
+        "fill": "#1F2937",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 453,
+        "y": 130,
+        "content": "This is not a pure \"no law\"",
+        "font_size": 14,
+        "fill": "#1F2937",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 453,
+        "y": 148,
+        "content": "zone.",
+        "font_size": 14,
+        "fill": "#1F2937",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 846,
+        "y": 130,
+        "content": "Private vendors, state",
+        "font_size": 14,
+        "fill": "#1F2937",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 846,
+        "y": 148,
+        "content": "partners, and regulated",
+        "font_size": 14,
+        "fill": "#1F2937",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 846,
+        "y": 166,
+        "content": "organizations should care too.",
+        "font_size": 14,
+        "fill": "#1F2937",
+        "font_weight": 400
       }
     ]
   },

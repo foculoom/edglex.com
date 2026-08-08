@@ -21,6 +21,60 @@
         "rx": 8
       },
       {
+        "type": "text",
+        "x": 420,
+        "y": 95,
+        "content": "The Work Product",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 420,
+        "y": 115,
+        "content": "Framework: FRCP\u2026",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 420,
+        "y": 120,
+        "content": "Federal Rule of Civil Procedure",
+        "font_size": 12,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 420,
+        "y": 134,
+        "content": "26(b)(3)(A) protects \"documents",
+        "font_size": 12,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 420,
+        "y": 148,
+        "content": "and tangible things that are",
+        "font_size": 12,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 420,
+        "y": 162,
+        "content": "prepared in anticipation",
+        "font_size": 12,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
         "type": "rect",
         "x": 380,
         "y": 160,
@@ -30,6 +84,60 @@
         "stroke": "#1D4ED8",
         "stroke_width": 3,
         "rx": 8
+      },
+      {
+        "type": "text",
+        "x": 400,
+        "y": 195,
+        "content": "Do AI Prompts Qualify",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 400,
+        "y": 215,
+        "content": "as Work Product?",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 400,
+        "y": 220,
+        "content": "An attorney's AI prompts \u2014 the",
+        "font_size": 12,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 400,
+        "y": 234,
+        "content": "queries, instructions, and",
+        "font_size": 12,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 400,
+        "y": 248,
+        "content": "context that the attorney types",
+        "font_size": 12,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 400,
+        "y": 262,
+        "content": "into an AI tool \u2014 are likely",
+        "font_size": 12,
+        "fill": "#475569",
+        "font_weight": 400
       },
       {
         "type": "rect",
@@ -44,30 +152,57 @@
       },
       {
         "type": "text",
-        "x": 420,
-        "y": 110,
-        "content": "The Work Product\nFramework: FRCP 2",
-        "font_size": 20,
-        "font_weight": 700,
-        "fill": "#1D4ED8"
-      },
-      {
-        "type": "text",
-        "x": 400,
-        "y": 210,
-        "content": "Do AI Prompts\nQualify as Work",
-        "font_size": 20,
-        "font_weight": 700,
-        "fill": "#1D4ED8"
+        "x": 380,
+        "y": 295,
+        "content": "Do AI Outputs Qualify",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
       },
       {
         "type": "text",
         "x": 380,
-        "y": 310,
-        "content": "Do AI Outputs\nQualify as Work",
-        "font_size": 20,
-        "font_weight": 700,
-        "fill": "#1D4ED8"
+        "y": 315,
+        "content": "as Work Product?",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 380,
+        "y": 320,
+        "content": "AI-generated outputs \u2014 case",
+        "font_size": 12,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 380,
+        "y": 334,
+        "content": "summaries, draft arguments,",
+        "font_size": 12,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 380,
+        "y": 348,
+        "content": "factual analyses \u2014 are more",
+        "font_size": 12,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 380,
+        "y": 362,
+        "content": "complicated.",
+        "font_size": 12,
+        "fill": "#475569",
+        "font_weight": 400
       }
     ]
   },

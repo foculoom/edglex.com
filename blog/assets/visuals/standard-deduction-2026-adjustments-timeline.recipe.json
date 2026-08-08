@@ -48,29 +48,137 @@
       {
         "type": "text",
         "x": 200,
+        "y": 140,
+        "content": "The Standard Deduction",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 200,
         "y": 160,
-        "content": "The Standard\nDeduction for 2026",
-        "font_size": 20,
-        "font_weight": 700,
-        "fill": "#1D4ED8"
+        "content": "for 2026",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 550,
+        "y": 140,
+        "content": "Other Key Figures for",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
       },
       {
         "type": "text",
         "x": 550,
         "y": 160,
-        "content": "Other Key Figures\nfor 2026 From Re",
-        "font_size": 20,
-        "font_weight": 700,
-        "fill": "#1D4ED8"
+        "content": "2026 From Revenue\u2026",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 900,
+        "y": 140,
+        "content": "What the Marginal Rate",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
       },
       {
         "type": "text",
         "x": 900,
         "y": 160,
-        "content": "What the Marginal\nRate Thresholds",
-        "font_size": 20,
-        "font_weight": 700,
-        "fill": "#1D4ED8"
+        "content": "Thresholds Mean",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 180,
+        "y": 255,
+        "content": "These figures apply to returns",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 180,
+        "y": 271,
+        "content": "for the 2026 tax year (generally",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 180,
+        "y": 287,
+        "content": "filed in 2027).",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 530,
+        "y": 255,
+        "content": "The standard deduction is the",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 530,
+        "y": 271,
+        "content": "most widely cited figure, but it",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 530,
+        "y": 287,
+        "content": "is not the only one that moves.",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 880,
+        "y": 255,
+        "content": "The marginal tax rate brackets",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 880,
+        "y": 271,
+        "content": "are also inflation-adjusted for",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 880,
+        "y": 287,
+        "content": "2026.",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
       }
     ]
   },

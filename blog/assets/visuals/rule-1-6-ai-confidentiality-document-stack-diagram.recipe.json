@@ -21,6 +21,60 @@
         "rx": 8
       },
       {
+        "type": "text",
+        "x": 420,
+        "y": 95,
+        "content": "Rule 1.6(a): The",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 420,
+        "y": 115,
+        "content": "General\u2026",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 420,
+        "y": 120,
+        "content": "ABA Model Rule 1.6(a) provides",
+        "font_size": 12,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 420,
+        "y": 134,
+        "content": "that a lawyer shall not reveal",
+        "font_size": 12,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 420,
+        "y": 148,
+        "content": "information relating to the",
+        "font_size": 12,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 420,
+        "y": 162,
+        "content": "representation of a client",
+        "font_size": 12,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
         "type": "rect",
         "x": 380,
         "y": 160,
@@ -30,6 +84,51 @@
         "stroke": "#1D4ED8",
         "stroke_width": 3,
         "rx": 8
+      },
+      {
+        "type": "text",
+        "x": 400,
+        "y": 195,
+        "content": "Rule 1.6(c): The",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 400,
+        "y": 215,
+        "content": "Reasonable Efforts\u2026",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 400,
+        "y": 220,
+        "content": "ABA Model Rule 1.6(c) extends",
+        "font_size": 12,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 400,
+        "y": 234,
+        "content": "beyond prohibiting unauthorized",
+        "font_size": 12,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 400,
+        "y": 248,
+        "content": "disclosure.",
+        "font_size": 12,
+        "fill": "#475569",
+        "font_weight": 400
       },
       {
         "type": "rect",
@@ -44,30 +143,57 @@
       },
       {
         "type": "text",
-        "x": 420,
-        "y": 110,
-        "content": "Rule 1.6(a): The\nGeneral Confident",
-        "font_size": 20,
-        "font_weight": 700,
-        "fill": "#1D4ED8"
-      },
-      {
-        "type": "text",
-        "x": 400,
-        "y": 210,
-        "content": "Rule 1.6(c): The\nReasonable Effort",
-        "font_size": 20,
-        "font_weight": 700,
-        "fill": "#1D4ED8"
+        "x": 380,
+        "y": 295,
+        "content": "What ABA Formal",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
       },
       {
         "type": "text",
         "x": 380,
-        "y": 310,
-        "content": "What ABA Formal\nOpinion 512 Adds",
-        "font_size": 20,
-        "font_weight": 700,
-        "fill": "#1D4ED8"
+        "y": 315,
+        "content": "Opinion 512 Adds",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 380,
+        "y": 320,
+        "content": "ABA Formal Opinion 512 (July 29,",
+        "font_size": 12,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 380,
+        "y": 334,
+        "content": "2024), issued by the ABA",
+        "font_size": 12,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 380,
+        "y": 348,
+        "content": "Standing Committee on Ethics and",
+        "font_size": 12,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 380,
+        "y": 362,
+        "content": "Professional Responsibility",
+        "font_size": 12,
+        "fill": "#475569",
+        "font_weight": 400
       }
     ]
   },
